@@ -1,24 +1,11 @@
-# AffirmFlow ✨
+# AffirmFlow AI
 
-**Your daily dose of AI-powered positivity.**
+AffirmFlow AI is a web application designed to generate personalized daily affirmations based on user-selected categories like career, health, or relationships. It aims to provide a simple, clean interface for users seeking daily motivation and self-improvement.
 
-AffirmFlow is a micro-SaaS web application that generates 5 unique, daily affirmations based on user-selected themes like career, health, or relationships. Users can subscribe to receive these affirmations daily via email or access them directly through the app.
+## Features (Planned)
+* Category-based affirmation generation using AI.
+* Unique daily affirmations.
+* (Future) Options to print or download affirmations.
 
-This project aims to provide a simple, powerful tool for daily motivation and self-improvement.
-
-## Features (v1)
-
-*   **Personalized Affirmations:** AI-generated content tailored to your chosen themes.
-*   **Daily Delivery:** New affirmations every day.
-*   **Theme Selection:** Customize your affirmation focus.
-*   **User Accounts:** Secure login and profile management.
-*   **Subscription Model:** Access premium features with a simple subscription.
-
-## Technology Stack
-
-*   **Frontend:** Next.js, TailwindCSS
-*   **Backend:** Next.js API Routes
-*   **AI:** OpenAI GPT-3.5-turbo
-*   **Authentication:** NextAuth.js
-*   **Payments:** Stripe
-*   **Hosting:** Vercel
+## Setup (Planned)
+This project will be built with Next.js/React and deployed on Vercel. AI integration will leverage a service like OpenAI. Stripe will be used for payment processing.
